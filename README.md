@@ -1,4 +1,5 @@
 # ETL---Canadian-Tire
+This ETL process scrapes the CanadianTire website for clearance and sale products, cleans and organizes the data, and then loads them to a SQL database. I subsequently access this database with a web app in another repo.
 
 **ETL**
 -------
