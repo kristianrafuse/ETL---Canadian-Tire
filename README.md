@@ -16,7 +16,7 @@ This ETL process scrapes the CanadianTire website for clearance and sale product
 
 **ETL Highlights**
 -------
-
+A simple way to handle location pop-ups and manage cookies. 
 ```
     chrome_options = Options()
     chrome_options.add_argument("--incognito")
